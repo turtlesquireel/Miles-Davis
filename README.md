@@ -1,6 +1,6 @@
 # Who was Miles?
 
-[Mile Davis](https://en.wikipedia.org/wiki/Miles_Davis) was a cool dude. He was good at playing the trumpet and played jazz. Then later he played jazz-fusion because he is just that cool. I like his music and if you like his music, you should also listen to Herbie Hancock. 
+[Mile Davis](https://en.wikipedia.org/wiki/Miles_Davis) was a cool dude. He was good at playing the trumpet and played jazz. Then later he played jazz-fusion because he is just that cool. He also shot up a bunch of heroin (not cool :o). I like his music and if you like his music, you should also listen to Herbie Hancock. 
 
 ![Miles](Miles.jpg)
 
