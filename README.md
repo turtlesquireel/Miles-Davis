@@ -1,6 +1,6 @@
 # Who was Miles?
 
-[Mile Davis](https://en.wikipedia.org/wiki/Miles_Davis) was a cool dude. He was good at playing the trumpet and played jazz.
+[Mile Davis](https://en.wikipedia.org/wiki/Miles_Davis) was a cool dude. He was good at playing the trumpet and played jazz. Then later he played jazz-fusion because he is just that cool. I like his music and if you like his music, you should also listen to Herbie Hancock. 
 
 ![Miles](Miles.jpg)
 
@@ -10,5 +10,7 @@
 ### [Stella by Starlight](https://www.youtube.com/watch?v=XGx1HvLV_NQ)
 
 # His Fashion Style Changed With His Music Style
-Look at his funny glasses!
+
 ![Funny Glasses](Funny Glasses.jpg)
+
+Look at his funny glasses!
