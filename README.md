@@ -5,6 +5,10 @@
 ![Miles](Miles.jpg)
 
 # Songs by Him You Should Listen to If You Are Feeling Productive
-## [Blue in Green](https://www.youtube.com/watch?v=PoPL7BExSQU)
-## [Miles Ahead](https://www.youtube.com/watch?v=_GXE_XXty_c)
-## [Stella by Starlight](https://www.youtube.com/watch?v=XGx1HvLV_NQ)
+### [Blue in Green](https://www.youtube.com/watch?v=PoPL7BExSQU)
+### [Miles Ahead](https://www.youtube.com/watch?v=_GXE_XXty_c)
+### [Stella by Starlight](https://www.youtube.com/watch?v=XGx1HvLV_NQ)
+
+# His Fashion Style Changed With His Music Style
+Look at his funny glasses!
+![Funny Glasses](Funny Glasses.jpg)
